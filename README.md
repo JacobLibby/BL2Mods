@@ -14,3 +14,13 @@ Currently, this repo/project is in the brainstorming and idea development stage.
 * Equippable Melee Weapons - _3D Modeling, Sounds, code_
 * Performance improving mods? (Create lower poly 3D models - _3D Modeling, code_
 * New Class Mods (hoarder class mod for other characters) - _code_
+
+## Current List of Resources
+
+### Communities and documentation:
+* https://github.com/BLCM/BLCMods/wiki
+* https://borderlandsmodding.com/sdk-mods/
+
+### Utilities (currently exploring)
+* https://eliotvu.com/portfolio/view/21/ue-explorer
+* https://www.gildor.org/downloads
